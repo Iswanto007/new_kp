@@ -37,7 +37,7 @@ nav ul {
   height: 300px;
 }
 .card h5 {
-  font-size: 24px;
+  font-size: 18px;
 }
 .card p {
   font-size: 12px;
@@ -51,8 +51,8 @@ nav ul {
 }
 #image_2 {
   position: relative;
-  width: 175px;
-  height: 165px;
+  width: 170px;
+  height: 160px;
   left: 50px;
 }
 #image_3 {
@@ -61,10 +61,10 @@ nav ul {
   height: 158px;
   left: 40px;
 }
-.fitur .btn .btn2,
-.btn3 {
+.fitur .btn {
   width: 100px;
   height: 40px;
+  margin-top: 20px;
   border-radius: 5px;
 }
 .fitur .btn2,
